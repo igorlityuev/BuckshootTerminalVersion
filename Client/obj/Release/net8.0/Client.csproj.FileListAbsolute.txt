@@ -1,0 +1,14 @@
+/home/pilotsquire/VScode/C#/game/test/Client/bin/Release/net8.0/Client
+/home/pilotsquire/VScode/C#/game/test/Client/bin/Release/net8.0/Client.deps.json
+/home/pilotsquire/VScode/C#/game/test/Client/bin/Release/net8.0/Client.runtimeconfig.json
+/home/pilotsquire/VScode/C#/game/test/Client/bin/Release/net8.0/Client.dll
+/home/pilotsquire/VScode/C#/game/test/Client/bin/Release/net8.0/Client.pdb
+/home/pilotsquire/VScode/C#/game/test/Client/obj/Release/net8.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/pilotsquire/VScode/C#/game/test/Client/obj/Release/net8.0/Client.AssemblyInfoInputs.cache
+/home/pilotsquire/VScode/C#/game/test/Client/obj/Release/net8.0/Client.AssemblyInfo.cs
+/home/pilotsquire/VScode/C#/game/test/Client/obj/Release/net8.0/Client.csproj.CoreCompileInputs.cache
+/home/pilotsquire/VScode/C#/game/test/Client/obj/Release/net8.0/Client.dll
+/home/pilotsquire/VScode/C#/game/test/Client/obj/Release/net8.0/refint/Client.dll
+/home/pilotsquire/VScode/C#/game/test/Client/obj/Release/net8.0/Client.pdb
+/home/pilotsquire/VScode/C#/game/test/Client/obj/Release/net8.0/Client.genruntimeconfig.cache
+/home/pilotsquire/VScode/C#/game/test/Client/obj/Release/net8.0/ref/Client.dll
